@@ -1,0 +1,146 @@
+Tunisia,4.516
+Vietnam,5.485
+Namibia,4.459
+Panama,6.309
+Latvia,6.180
+Chad,4.251
+Kazakhstan,6.234
+Iceland,7.557
+Lebanon,2.955
+Jamaica,5.850
+Italy,6.467
+United Arab Emirates,6.576
+Uruguay,6.474
+Thailand,5.891
+Mali,4.479
+Gambia,5.164
+Honduras,6.022
+Mauritius,6.071
+Moldova,5.857
+Laos,5.140
+Bolivia,5.600
+Zimbabwe,2.995
+Kuwait,6.106
+Croatia,6.125
+South Africa,5.194
+Montenegro,5.547
+North Cyprus,5.467
+North Macedonia,5.199
+Dominican Republic,5.737
+Malawi,3.750
+Madagascar,4.339
+Gabon,4.958
+Armenia,5.399
+Ireland,7.041
+France,6.687
+Pakistan,4.516
+Ecuador,5.533
+Spain,6.476
+Palestinian Territories,4.483
+Slovenia,6.630
+Mozambique,5.048
+Guinea,4.891
+Taiwan Province of China,6.512
+Tanzania,3.702
+Ethiopia,4.241
+Mongolia,5.761
+Philippines,5.904
+Belarus,5.821
+Greece,5.948
+Lesotho,3.512
+Singapore,6.480
+Poland,6.123
+Cyprus,6.221
+Switzerland,7.512
+Norway,7.365
+Niger,5.003
+Lithuania,6.446
+Nepal, 5.377
+Libya,5.330
+Eswatini,4.396
+Togo,4.112
+Comoros,4.609
+Bangladesh,5.155
+Belgium,6.805
+Iran,4.888
+Tajikistan,5.377
+Rwanda,3.268
+Botswana,3.471
+Cameroon,5.048
+Nigeria,4.552
+Sweden,7.384
+Liberia,5.122
+Nicaragua,6.165
+Ukraine,5.084
+Denmark,7.636
+Colombia,5.781
+Kosovo,6.455
+Venezuela,4.925
+Czechia,6.920
+Iraq,4.941
+Uzbekistan,6.063
+Austria,7.163
+Germany,7.034
+Malaysia,5.711
+Bulgaria,5.371
+Afghanistan,2.404
+New Zealand,7.200
+Hungary,6.086
+Sri Lanka,4.362
+Sierra Leone,3.574
+Serbia,6.178
+South Korea,5.935
+Turkmenistan,5.474
+Argentina,5.967
+Australia,7.162
+Turkiye,4.744
+India,3.777
+Morocco,5.060
+Congo,5.075
+Israel,7.364
+Japan,6.039
+Guatemala,6.262
+Paraguay,5.578
+Kenya,4.543
+Brazil,6.293
+Costa Rica,6.582
+Bahrain,6.647
+Ghana,4.872
+Albania,5.199
+United States,6.977
+Chile,6.172
+Slovakia,6.391
+Saudi Arabia,6.523
+Senegal,5.046
+Uganda,4.603
+Benin,4.623
+Cambodia,4.640
+Ivory Coast,5.235
+Luxembourg,7.404
+Bosnia and Herzegovina,5.768
+Mexico,6.128
+Portugal,6.016
+Myanmar,4.394
+Egypt,4.288
+Algeria,5.122
+Mauritania,4.153
+Romania,6.477
+Azerbaijan,5.173
+Estonia,6.341
+Burkina Faso,4.670
+Jordan,4.152
+Malta,6.447
+Kyrgyzstan,5.828
+Indonesia,5.240
+Zambia,3.760
+Russia,5.459
+El Salvador,6.120
+Yemen,4.197
+Canada,7.025
+Peru,5.559
+Netherlands,7.415
+Finland,7.821
+China,5.585
+Georgia,4.973
+Hong Kong,5.425
+United Kingdom,6.943
