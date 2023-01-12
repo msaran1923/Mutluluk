@@ -1,3 +1,3 @@
 # Mutluluk
-Bilgisayar Mühendisi gibi Düşünmek atölye projesi
+Bilgisayar Mühendisi gibi Düşünmek atölye projesi:
 Bu program Cankaya Universitesi tarafından lise öğrencilerine yönelik düzenlenen meslek tanıtımı atölyeleri kapsamında Bilgisayar Mühendisi gibi Düşünmek atölyesinde geliştirilen yazılım projesinin örnek uygulamasıdır. Projede bir text dosyasından virgülle ayrılmış ülke adları ve mutluluk endeksleri okunarak en mutlu, en mutsuz ve ortalama mutluluk endeks değeri bir pencere içerisinde kullanıcılara gösterilir. Ayrıca, kullanıcılara ülke adlarını girerek listede arama yapma imkanı sunar. Sonuçları bir çubuk grafiği ile görselleştirme özelliği de vardır.
